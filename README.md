@@ -14,6 +14,8 @@ Organisations publish content through multiple employees, agencies, and AI tools
 
 VibeCheck AI brings content review and brand governance into one workspace. It combines AI-assisted checks, explainable issue reporting, correction suggestions, team workflows, and governance insights.
 
+[![Architecture diagram of kishan-p-code/vibecheck-ai-kishan-](https://gitdiagram.com/kishan-p-code/vibecheck-ai-kishan-/diagram.png)](https://gitdiagram.com/kishan-p-code/vibecheck-ai-kishan-?utm_source=readme&utm_medium=picture)
+
 ## Key Features
 
 ### 1. AI-Powered Content Review

@@ -16,6 +16,10 @@ VibeCheck AI brings content review and brand governance into one workspace. It c
 
 [![Architecture diagram of vibecheck-ai](https://gitdiagram.com/kishan-p-code/vibecheck-ai-kishan-/diagram.png)](https://gitdiagram.com/kishan-p-code/vibecheck-ai-kishan-?utm_source=readme&utm_medium=picture)
 
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/kishan-p-code/vibecheck-ai-kishan-?utm_source=readme&utm_medium=badge)
+
+
+
 ## Key Features
 
 ### 1. AI-Powered Content Review
